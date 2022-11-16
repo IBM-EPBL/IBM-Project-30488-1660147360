@@ -1,0 +1,35 @@
+/* @import 'react-pro-sidebar/dist/scss/styles.scss'; */
+.sidebar-bg-color{
+    height:100vh;
+    background-color: #40a8e4;
+}
+
+.nav-link.active{
+ 
+}
+/* #navBar{
+  background-color: #272829;
+}
+#navBar.active{
+  background-color: transparent !important;
+} */
+.navItem{
+  margin-right: 12px;
+  color: #292727 !important;
+}
+.navItem:hover{  
+  border-radius: 5px;
+  background-color: rgb(87, 162, 233);
+} 
+.navItemSignUp{
+  background-color: #292727;
+}
+.navItemSignUp:hover{
+  border-radius: 5px !important;
+  /* color: #ffffff !important; */
+  background-color: #4e4e4e;
+  border: 1px solid white;
+}
+.nav{
+  color: aqua !important;
+}
