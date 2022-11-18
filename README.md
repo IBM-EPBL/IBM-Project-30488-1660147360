@@ -7,7 +7,6 @@ Inventory Managment System for Retailers
 Team Leader
     B.Balaji
 
-Team Members
-    1.R.Aabavanan
-    2.A.Aaravinth
-    3.S.Sakthivelan
+Team member 1:.R.Aabavanan
+Team member 2:A.Aaravinth
+Team member 3.S.Sakthivelan
